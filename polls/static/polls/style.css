@@ -1,7 +1,7 @@
 li a {
-    color: white;
+    color: blue;
 }
 
 body {
-    background: white url("https://i.imgur.com/5rmJp5J.png") repeat right bottom;
+    background: white url("images/background.png") repeat right bottom;
 }
