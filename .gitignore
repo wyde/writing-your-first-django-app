@@ -3,3 +3,5 @@ db.sqlite3
 *.swp
 *.swo
 /polls/static/polls/images/
+*.pyc
+*.pyo
